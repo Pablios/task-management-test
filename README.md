@@ -73,4 +73,26 @@ O frontend consumirá a API e terá as seguintes páginas:
 ✅ **Deploy do backend (ex: Render, Heroku, DigitalOcean)**  
 ✅ **Deploy do frontend (ex: Firebase Hosting, Vercel, Netlify)**  
 
+### **🚀 Como entregar?**
+1️⃣ Desenvolva a solução e envie o código para um repositório público no **GitHub**.  
+2️⃣ Inclua um **README** com instruções para rodar o projeto.  
+3️⃣ Envie o link do repositório para avaliação.  
 
+---
+
+### **Layout de Exemplo para Desenvolvimento**  
+Este layout serve como uma referência inicial para o desenvolvimento. Ele não inclui todos os requisitos necessários, mas pode ser útil para começar a estrutura do projeto. Algumas informações extras estão presentes, mas o foco principal é fornecer um ponto de partida.
+
+### **Acesso ao Layout**  
+
+Você pode visualizar o layout de exemplo através do link abaixo:
+
+[Layout de Exemplo no Figma]([https://www.figma.com/community/file/1363381610478131725](https://www.figma.com/design/H2QeQ5dpYXIo1AWtoajsEk/Simple-Project%2FTask-Management-Dashboard-(Community)?node-id=20176-21207&t=DOWgbP2n4avwjSlZ-1))
+
+## Instruções
+
+1️⃣ Acesse o layout no Figma.  
+2️⃣ Use-o como guia para começar a implementação da interface.  
+3️⃣ Lembre-se de que o layout contém elementos extras e pode não estar 100% alinhado com as necessidades finais do projeto. Certifique-se de adaptar conforme necessário.  
+
+---
