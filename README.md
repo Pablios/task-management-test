@@ -87,7 +87,7 @@ Este layout serve como uma referência inicial para o desenvolvimento. Ele não 
 
 Você pode visualizar o layout de exemplo através do link abaixo:
 
-[Layout de Exemplo no Figma]([https://www.figma.com/community/file/1363381610478131725](https://www.figma.com/design/H2QeQ5dpYXIo1AWtoajsEk/Simple-Project%2FTask-Management-Dashboard-(Community)?node-id=20176-21207&t=DOWgbP2n4avwjSlZ-1))
+[Layout de Exemplo no Figma](https://www.figma.com/design/H2QeQ5dpYXIo1AWtoajsEk/Simple-Project%2FTask-Management-Dashboard-(Community)?node-id=20176-21207&t=DOWgbP2n4avwjSlZ-1)
 
 ## Instruções
 
